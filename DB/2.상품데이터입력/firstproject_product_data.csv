@@ -1,0 +1,39 @@
+PROD_NO,PROD_NAME,PROD_BRAND,PROD_CATEGORY,PROD_PRICE,PROD_DISCOUNT,PROD_STOCK,PROD_REGDATE,PROD_IMAGE,PROD_DETAIL
+1,널디X볼캡_크림,nerdy,fashion,25,30,19,,nerdy/cap1.png,test
+2,널디X볼캡_블랙,nerdy,fashion,25,30,100,,nerdy/cap2.png,test
+3,널디X풀오버후디_블랙,nerdy,fashion,73,30,100,,nerdy/hoodie1.png,test
+4,널디X풀오버후디_크림,nerdy,fashion,73,30,100,,nerdy/hoodie2.png,test
+5,널디X풀오버후디_퍼플,nerdy,fashion,73,30,100,,nerdy/hoodie3.png,test
+6,널디X스윗팬츠_블랙,nerdy,fashion,57,30,100,,nerdy/pants2.png,test
+7,널디X스윗팬츠_크림,nerdy,fashion,57,30,100,,nerdy/pants3.png,test
+8,널디X스윗팬츠_퍼플,nerdy,fashion,57,30,100,,nerdy/pants1.png,test
+9,OUD WOOD,tomford,perfume,185.5,20,50,,tomford/OUD WOOD.png,50ml
+10,NEROLI PORTOFINO,tomford,perfume,181.3,20,50,,tomford/NEROLI PORTOFINO.png,50ml
+11,WHITE SUEDE,tomford,perfume,185.5,20,50,,tomford/WHITE SUEDE.png,50ml
+12,ROSE D AMALFI,tomford,perfume,185.5,20,50,,tomford/ROSE D AMALFI.png,50ml
+13,ROSE DE RUSSIE,tomford,perfume,185.5,20,50,,tomford/ROSE DE RUSSIE.png,50ml
+14,크로놀로지스트 오일 듀오 세트,케라스타즈,hair,115,45,30,,케라스타즈/크로놀로지스트 오일 듀오 세트.png,
+15,엘릭서 얼팀 오일 듀오 세트,케라스타즈,hair,83,45,30,,케라스타즈/엘릭서 얼팀 오일 듀오 세트.png,100ml*2
+16,방 덴시피크 옴므,케라스타즈,hair,29,45,30,,케라스타즈/방 덴시피크 옴므.png,250ml
+17,스페시픽 방 디발렁 밸런싱 샴푸,케라스타즈,hair,42,45,30,,케라스타즈/스페시픽 방 디발렁 밸런싱 샴푸.png,500ml
+18,케라스타즈 방 크로마 리스펙트 리치 샴푸,케라스타즈,hair,30,45,30,,케라스타즈/케라스타즈 방 크로마 리스펙트 리치 샴푸.png,250ml
+19,설화수 윤조에센스 듀오 세트,설화수,hair,125,55,20,,설화수/설화수 윤조에센스 듀오 세트.png, 60ml 
+20,설화수 자음 에센셜,설화수,skincare,84,30,20,,설화수/설화수 자음 에센셜.png,6종
+21,설화수 에센셜 안티에이징케어 리추얼,설화수,skincare,179,30,20,,설화수/설화수 에센셜 안티에이징케어 리추얼.png,8종
+22,설화수 자음생세럼,설화수,skincare,145,30,20,,설화수/설화수 자음생세럼.png,50ml
+23,캘빈클라인 CK ONE 썸머 데이즈,ck,perfume,63,10,40,,ck/캘빈클라인 CK ONE 썸머 데이즈.png,100ml
+24,Free EDT 50,ck,perfume,51,10,40,,ck/Free EDT 50.png,50ml
+25,CK ONE COTTON TRUNK,ck,fashion,38,30,30,,ck/CK ONE COTTON TRUNK.png,L
+26,CK BELT,ck,fashion,79,5,50,,ck/CK BELT.png,100cm
+27,ICONIC MESH 35,ck,accessory,173,15,50,,ck/ICONIC MESH 35.png,watch
+28,CK MINIMAL XBODY,ck,wallet/bag,77,30,30,,ck/CK MINIMAL XBODY.png,
+29,MASTER COLLECTION,론진,accessory,3030,8,20,,론진/MASTER COLLECTION.png,ring
+30,실버 반지 3MM 16호,gucci,accessory,292,15,10,,gucci/실버 반지 3MM 16호.png,ring
+31,실버 반지 6MM 12호,gucci,accessory,306,20,10,,gucci/실버 반지 6MM 12호.png,ring
+32,에코 프랜들리백 플러스 0037 아이보리,캉골,wallet/bag,26,30,50,,캉골/에코 프랜들리백 플러스 0037 아이보리.png,bag
+33,앨리스 캔버스 버킷백 3738 블랙,캉골,wallet/bag,36,40,50,,캉골/앨리스 캔버스 버킷백 3738 블랙.png,bag
+34,QUIETCOMFORT HEADPHONES,보스,electronic,321,10,50,,보스/QUIETCOMFORT HEADPHONES.png,헤드셋
+35,QUIETCOMFORT EARBUDS SANDSTONE,보스,electronic,247,30,50,,보스/QUIETCOMFORT EARBUDS SANDSTONE.png,무선 이어폰
+36,워치5 44mm 실버,삼성,electronic,234,10,50,,삼성/워치5 44mm 실버.png,
+37,버즈2 Pro 그라파이트,삼성,electronic,198,10,50,,삼성/버즈2 Pro 그라파이트.png,
+38,갤럭시 Z Fold4,삼성,electronic,1506,20,80,,삼성/갤럭시 Z Fold4.png,"(자급제, 12/512GB)_베이지"
